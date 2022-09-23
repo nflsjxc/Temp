@@ -1,1 +1,1 @@
-This is for transferring files
+This is for tranmiting files
